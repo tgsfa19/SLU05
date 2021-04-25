@@ -1,12 +1,5 @@
 -Noodles
 -Fruit
 -Vegetables
-
-
-
-[1;6D[1;6A[1;6A[1;6D[D[C[A[B
-
-
-
-	[D[D[D
-[1;2A[1;2D[B
+-Pineapple
+-Tea
